@@ -1,0 +1,2 @@
+E:\Documents\HES\Out\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+E:\Documents\HES\Out\App\Out\Out.csproj;x86
