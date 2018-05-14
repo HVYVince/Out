@@ -4,47 +4,63 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ScannerMaster : MonoBehaviour, IInputClickHandler {//, IInputHandler {
+public class ScannerMaster : MonoBehaviour, IInputClickHandler {
+    public Material horizontalMaterial;
+    public Material verticalMaterial;
+    public Material otherMaterial;
+
     private SpatialMappingManager mappingManager;
     private SurfaceMeshesToPlanes planesMaker;
+    private RemoveSurfaceVertices verticesRemover;
+    private List<GameObject> horizontalObjects;
+    private List<GameObject> verticalObjects;
+    private List<GameObject> otherObjects;
 
     public virtual void OnInputClicked(InputClickedEventData eventData)
     {
-        Debug.Log("CLICKED INPUT");
         mappingManager.StopObserver();
         planesMaker.MakePlanes();
     }
 
-   /* public void OnInputDown(InputEventData eventData)
+    public void removeVertices(object source, System.EventArgs args)
     {
-        Debug.Log("CLICKED DOWN INPUT");
-        return;
+        horizontalObjects = SurfaceMeshesToPlanes.Instance.GetActivePlanes(PlaneTypes.Table | PlaneTypes.Floor | PlaneTypes.Ceiling);
+        verticalObjects = SurfaceMeshesToPlanes.Instance.GetActivePlanes(PlaneTypes.Wall);
+        otherObjects = SurfaceMeshesToPlanes.Instance.GetActivePlanes(PlaneTypes.Unknown);
+        if (RemoveSurfaceVertices.Instance.enabled)
+            RemoveSurfaceVertices.Instance.RemoveSurfaceVerticesWithinBounds(SurfaceMeshesToPlanes.Instance.ActivePlanes);
     }
 
-    public void OnInputUp(InputEventData eventData)
-    {
-        Debug.Log("CLICKED UP INPUT");
-        mappingManager.StopObserver();
-        planesMaker.MakePlanes();
-    }*/
 
-    // Use this for initialization
+    public void planesReady(object source, System.EventArgs args)
+    {
+        foreach (GameObject obj in horizontalObjects)
+            obj.GetComponent<Renderer>().material = horizontalMaterial;
+        foreach (GameObject obj in verticalObjects)
+            obj.GetComponent<Renderer>().material = verticalMaterial;
+        foreach (GameObject obj in otherObjects)
+            obj.GetComponent<Renderer>().material = otherMaterial;
+    }
+    
     void Awake ()
     {
-        Debug.Log("LAUNCHED");
         mappingManager = GetComponentInChildren<SpatialMappingManager>();
         planesMaker = GetComponentInChildren<SurfaceMeshesToPlanes>();
-        //InputManager.Instance.AddGlobalListener(gameObject);
+        verticesRemover = GetComponentInChildren<RemoveSurfaceVertices>();
+        horizontalObjects = new List<GameObject>();
+        verticalObjects = new List<GameObject>();
+        otherObjects = new List<GameObject>();
     }
 
     void Start()
     {
-        Debug.Log("START");
+        SurfaceMeshesToPlanes.Instance.MakePlanesComplete += removeVertices;
+        RemoveSurfaceVertices.Instance.RemoveVerticesComplete += planesReady;
         InputManager.Instance.PushFallbackInputHandler(gameObject);
+        mappingManager.CleanupObserver();
         mappingManager.StartObserver();
     }
-
-        // Update is called once per frame
+    
     void Update ()
     {
         return;
