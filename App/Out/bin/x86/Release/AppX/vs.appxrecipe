@@ -31,13 +31,13 @@
     <AppXManifest Include="E:\Documents\HES\Out\App\Out\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-05-14T09:37:58.062</Modified>
+      <Modified>2018-05-14T17:46:15.768</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\bin\x86\Release\Out.exe">
       <PackagePath>entrypoint\Out.exe</PackagePath>
-      <Modified>2018-05-14T09:37:45.221</Modified>
+      <Modified>2018-05-14T17:46:03.402</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Vince\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-05-14T09:33:30.349</Modified>
+      <Modified>2018-05-14T17:45:35.208</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -564,15 +564,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-05-14T09:33:17.773</Modified>
+      <Modified>2018-05-14T17:45:23.096</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-05-14T09:33:17.008</Modified>
+      <Modified>2018-05-14T17:45:22.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-05-14T09:33:15.391</Modified>
+      <Modified>2018-05-14T17:45:20.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -580,39 +580,39 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-05-14T09:33:17.769</Modified>
+      <Modified>2018-05-14T17:45:23.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-05-14T09:33:17.094</Modified>
+      <Modified>2018-05-14T17:45:22.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2018-05-14T09:33:17.386</Modified>
+      <Modified>2018-05-14T17:45:22.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-05-14T09:33:17.479</Modified>
+      <Modified>2018-05-14T17:45:22.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-05-14T09:33:15.388</Modified>
+      <Modified>2018-05-14T17:45:20.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2018-05-14T09:33:17.383</Modified>
+      <Modified>2018-05-14T17:45:22.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2018-05-14T09:33:17.476</Modified>
+      <Modified>2018-05-14T17:45:22.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-05-14T09:33:30.320</Modified>
+      <Modified>2018-05-14T17:45:35.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2018-05-14T09:33:30.322</Modified>
+      <Modified>2018-05-14T17:45:35.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -621,239 +621,239 @@
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-05-14T09:37:45.711</Modified>
+      <Modified>2018-05-14T17:46:03.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.545</Modified>
+      <Modified>2018-05-14T17:46:13.268</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.570</Modified>
+      <Modified>2018-05-14T17:46:13.297</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.622</Modified>
+      <Modified>2018-05-14T17:46:13.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.662</Modified>
+      <Modified>2018-05-14T17:46:13.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.736</Modified>
+      <Modified>2018-05-14T17:46:13.416</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.762</Modified>
+      <Modified>2018-05-14T17:46:13.441</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.782</Modified>
+      <Modified>2018-05-14T17:46:13.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.810</Modified>
+      <Modified>2018-05-14T17:46:13.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.836</Modified>
+      <Modified>2018-05-14T17:46:13.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.856</Modified>
+      <Modified>2018-05-14T17:46:13.559</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.884</Modified>
+      <Modified>2018-05-14T17:46:13.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.911</Modified>
+      <Modified>2018-05-14T17:46:13.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.952</Modified>
+      <Modified>2018-05-14T17:46:13.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.976</Modified>
+      <Modified>2018-05-14T17:46:13.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.997</Modified>
+      <Modified>2018-05-14T17:46:13.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.XRModule.dll">
       <PackagePath>UnityEngine.XRModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.023</Modified>
+      <Modified>2018-05-14T17:46:13.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.055</Modified>
+      <Modified>2018-05-14T17:46:13.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UnityWebRequestAssetBundleModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAssetBundleModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.076</Modified>
+      <Modified>2018-05-14T17:46:13.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.105</Modified>
+      <Modified>2018-05-14T17:46:13.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.123</Modified>
+      <Modified>2018-05-14T17:46:13.870</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.148</Modified>
+      <Modified>2018-05-14T17:46:13.927</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.189</Modified>
+      <Modified>2018-05-14T17:46:13.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.205</Modified>
+      <Modified>2018-05-14T17:46:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.241</Modified>
+      <Modified>2018-05-14T17:46:14.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.269</Modified>
+      <Modified>2018-05-14T17:46:14.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.287</Modified>
+      <Modified>2018-05-14T17:46:14.138</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.326</Modified>
+      <Modified>2018-05-14T17:46:14.162</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.352</Modified>
+      <Modified>2018-05-14T17:46:14.228</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.374</Modified>
+      <Modified>2018-05-14T17:46:14.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.415</Modified>
+      <Modified>2018-05-14T17:46:14.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.671</Modified>
+      <Modified>2018-05-14T17:46:14.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.701</Modified>
+      <Modified>2018-05-14T17:46:14.546</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.736</Modified>
+      <Modified>2018-05-14T17:46:14.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.779</Modified>
+      <Modified>2018-05-14T17:46:14.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-05-14T09:33:23.547</Modified>
+      <Modified>2018-05-14T17:45:29.082</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.827</Modified>
+      <Modified>2018-05-14T17:46:14.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.861</Modified>
+      <Modified>2018-05-14T17:46:14.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.882</Modified>
+      <Modified>2018-05-14T17:46:14.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.932</Modified>
+      <Modified>2018-05-14T17:46:14.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:56.976</Modified>
+      <Modified>2018-05-14T17:46:14.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.009</Modified>
+      <Modified>2018-05-14T17:46:14.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.029</Modified>
+      <Modified>2018-05-14T17:46:14.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.052</Modified>
+      <Modified>2018-05-14T17:46:14.843</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.072</Modified>
+      <Modified>2018-05-14T17:46:14.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.088</Modified>
+      <Modified>2018-05-14T17:46:14.872</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.115</Modified>
+      <Modified>2018-05-14T17:46:14.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.157</Modified>
+      <Modified>2018-05-14T17:46:14.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.223</Modified>
+      <Modified>2018-05-14T17:46:14.979</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.296</Modified>
+      <Modified>2018-05-14T17:46:15.027</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.428</Modified>
+      <Modified>2018-05-14T17:46:15.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.452</Modified>
+      <Modified>2018-05-14T17:46:15.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.482</Modified>
+      <Modified>2018-05-14T17:46:15.185</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.503</Modified>
+      <Modified>2018-05-14T17:46:15.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.529</Modified>
+      <Modified>2018-05-14T17:46:15.307</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.676</Modified>
+      <Modified>2018-05-14T17:46:15.380</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2018-05-14T09:37:57.722</Modified>
+      <Modified>2018-05-14T17:46:15.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-05-14T09:37:55.516</Modified>
+      <Modified>2018-05-14T17:46:13.224</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Documents\HES\Out\App\Out\bin\x86\Release\Core\Out.exe">
       <PackagePath>Out.exe</PackagePath>
-      <Modified>2018-05-14T09:37:58.060</Modified>
+      <Modified>2018-05-14T17:46:15.766</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

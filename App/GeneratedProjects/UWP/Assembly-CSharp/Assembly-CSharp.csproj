@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4c69206a-9bd4-498c-80ac-c2b5d45533cd}</ProjectGuid>
+    <ProjectGuid>{9fb6dd04-cd3b-4556-9aed-5208f7720afe}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -1789,6 +1789,9 @@
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\HoloToolkit\UX\Scripts\UsabilityUtilities.cs">
       <Link>HoloToolkit\UX\Scripts\UsabilityUtilities.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\CountdownTick.cs">
+      <Link>Scripts\CountdownTick.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\ScannerMaster.cs">
       <Link>Scripts\ScannerMaster.cs</Link>
