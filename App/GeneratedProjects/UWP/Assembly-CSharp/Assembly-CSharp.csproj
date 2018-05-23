@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9fb6dd04-cd3b-4556-9aed-5208f7720afe}</ProjectGuid>
+    <ProjectGuid>{7666b245-faa4-4790-92f5-ab184f14d9e0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -1789,6 +1789,12 @@
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\HoloToolkit\UX\Scripts\UsabilityUtilities.cs">
       <Link>HoloToolkit\UX\Scripts\UsabilityUtilities.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\OldRadio\Okean\CamRotat.cs">
+      <Link>OldRadio\Okean\CamRotat.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\AudioTracks.cs">
+      <Link>Scripts\AudioTracks.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\CountdownTick.cs">
       <Link>Scripts\CountdownTick.cs</Link>
