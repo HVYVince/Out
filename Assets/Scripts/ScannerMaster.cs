@@ -40,6 +40,7 @@ public class ScannerMaster : MonoBehaviour, IInputClickHandler {
             obj.GetComponent<Renderer>().material = verticalMaterial;
         foreach (GameObject obj in otherObjects)
             obj.GetComponent<Renderer>().material = otherMaterial;
+        mappingManager.DrawVisualMeshes = false;
     }
     
     void Awake ()

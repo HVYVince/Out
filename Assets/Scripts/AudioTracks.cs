@@ -2,10 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AudioTracks : MonoBehaviour {
+public class AudioTracks : MonoBehaviour, IInputClickHandler
+{
 
-	// Use this for initialization
-	void Start () {
+
+    public virtual void OnInputClicked(InputClickedEventData eventData)
+    {
+        GetComponentInChildren<AudioSource>().Stop();
+    }
+
+    // Use this for initialization
+    void Start () {
 		
 	}
 	

@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 Out.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
-Out\App.cs: FBF335002213436A8536E6F1D9B2775C
+Out\App.cs: modified
 Out\AssemblyConverterArgs.txt: 174D75DCDB2D022CF26F77004B76364F
 Out\Out.csproj: modified
 Out\Out.csproj.user: modified
